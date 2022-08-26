@@ -9,6 +9,6 @@ Languages & Tools:
 - Git/Azure
 - Unity/Unreal Engine
 - Photoshop/Illustrator/Animate/After Effects
-- Maya/3DS Max/Substance Painter
+- Maya/3ds Max/Substance Painter
 
 [![xXJamieXx GitHub stats](https://github-readme-stats.vercel.app/api?username=xXJamieXx)](https://github.com/anuraghazra/github-readme-stats)
