@@ -3,6 +3,7 @@
 - **Director & Developer** @ [Paradox Gaming](https://discord.gg/paradoxgaming)
 - Aspiring **video games developer**
 - Enjoy developing **Minecraft Mods** & **FiveM Scripts**
+- Minecraft Modpack **Beta Tester** for [Feed The Beast](https://feed-the-beast.com/)
 
 Languages & Tools:
 - C#/JavaScript/CSS/HTML/Lua/Java/PowerShell
